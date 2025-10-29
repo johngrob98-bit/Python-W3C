@@ -1,19 +1,18 @@
-THIS README WILL BE IN GERMAN
+THIS README WILL BE IN GERMAN AND IN NORMAL CASE
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-HIER BEFINDET SICH DAS PYTHON TUTORIAL VON W3C SCHOOLS, DIE MEISTEN KAPITEL BEFINDEN SICH SCHON IN DIESEM REPO.
-DARIN ENTHALTEN SIND MEINE EIGENEN KOMMENTARE, ICH BITTE BEI BENUTZUNG NICHTS DER DATEIN IM REPO ZU ÄNDERN.
-FALLS JEMAND ETWAS ÄNDERN MÖCHTE DANN BITTE SELBER LOKAL HERUNTERLADEN UND BEI SICH SELBER AUSPROBIEREN.
-ICH EMPFEHLE DAS GANZE ÜBER VS CODE ZU MACHEN, ABER DIE WAHL DER IDE STEHT JEDEM SELBER FREI. 
-ALS NEBENINOFRMATION, ICH HABE ES IN "MEINEN WORTEN" ERKLÄRT, BEI FRAGEN -> ERST GOOGLE, COPILOT, CHATGPT USW
-DANN MICH FRAGEN. DENKEN HILFT, WICHTIG IST NOCH DIE KAPITEL SIND CHRONOLOGISCH DAHER AUCH KEINE NUMMERIERUNG
-DAS WIRD SICH WAHRSCHEINLICH NOCH ÄNDERN. DIESES GANZE REPO IST EIN WORK IN PROGRESS (KRITIK UND ANREGUNGEN 
-BITTE ZU MIR). AN SONNSTEN WÜNSCHE ICH VIEL ERFOLG UND SPAẞ
-
+Hier befindet sich das Python-Tutorial von W3C Schools. Die meisten Kapitel befinden sich bereits in diesem Repository.
+Darin enthalten sind meine eigenen Kommentare. Ich bitte bei Benutzung, nichts an den Dateien im Repository zu ändern.
+Falls jemand etwas ändern möchte, dann bitte lokal herunterladen und bei sich selbst ausprobieren.
+Ich empfehle, das Ganze über VS Code zu machen, aber die Wahl der IDE steht jedem selbst frei.
+Als Nebeninformation: Ich habe es in „meinen Worten“ erklärt. Bei Fragen → zuerst Google, Copilot, ChatGPT usw. nutzen,
+dann mich fragen. Denken hilft! Wichtig ist noch: Die Kapitel sind chronologisch, daher auch keine Nummerierung.
+Das wird sich wahrscheinlich noch ändern. Dieses gesamte Repository ist ein Work in Progress
+(Kritik und Anregungen bitte zu mir). Ansonsten wünsche ich viel Erfolg und Spaß!
 ---------------------------------------------------------------------------------------------------------------------------
-
-ZIEL DIESES TUTORIALS SOLL ES SEIN PYTHON 3.13 ZU VERSTEHEN UND DIE KOZEPTE ANWENDEN ZU KÖNNEN. ICH PERSÖHNLICH HABE DIESES
-TUTORIAL MIT EINEM ZIEL IM HINTERGRUND GEMACHT, FRONTEND UND BACKEND FÜR WEBSEITEN REALISIEREN ZU KÖNNEN. ALLE INHALTE AUS
-DEM TUTORIAL SIND AUF DER W3C SCHOOLS WEBSEITE VORHANDEN, GERNE AUCH DA VORBEISCHAUEN.
-DAS WARS
+Ziel dieses Tutorials
+Das Ziel soll es sein, Python 3.13 zu verstehen und die Konzepte anwenden zu können.
+Ich persönlich habe dieses Tutorial mit dem Ziel erstellt, Frontend und Backend für Webseiten realisieren zu können.
+Alle Inhalte aus dem Tutorial sind auf der W3C Schools Webseite vorhanden – gerne auch dort vorbeischauen.
+Das war’s.
