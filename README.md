@@ -14,5 +14,5 @@ Das wird sich wahrscheinlich noch ändern. Dieses gesamte Repository ist ein Wor
 Ziel dieses Tutorials
 Das Ziel soll es sein, Python 3.13 zu verstehen und die Konzepte anwenden zu können.
 Ich persönlich habe dieses Tutorial mit dem Ziel erstellt, Frontend und Backend für Webseiten realisieren zu können.
-Alle Inhalte aus dem Tutorial sind auf der W3C Schools Webseite vorhanden – gerne auch dort vorbeischauen.
+Alle Inhalte aus dem Tutorial sind auf der W3 Schools Webseite vorhanden – gerne auch dort vorbeischauen.
 Das war’s.
