@@ -2,7 +2,7 @@ THIS README WILL BE IN GERMAN AND IN NORMAL CASE
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-Hier befindet sich das Python-Tutorial von W3C Schools. Die meisten Kapitel befinden sich bereits in diesem Repository.
+Hier befindet sich das Python-Tutorial von W3 Schools. Die meisten Kapitel befinden sich bereits in diesem Repository.
 Darin enthalten sind meine eigenen Kommentare. Ich bitte bei Benutzung, nichts an den Dateien im Repository zu ändern.
 Falls jemand etwas ändern möchte, dann bitte lokal herunterladen und bei sich selbst ausprobieren.
 Ich empfehle, das Ganze über VS Code zu machen, aber die Wahl der IDE steht jedem selbst frei.
